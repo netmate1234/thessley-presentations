@@ -6,6 +6,12 @@
 
 The product decks, one per project. Arrow keys or click the edges; `#7` deep-links a slide.
 
+## Quick start
+
+```sh
+python3 -m http.server -d docs 8000   # open http://127.0.0.1:8000/
+```
+
 ## Decks
 
 | Project | Deck |
