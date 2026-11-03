@@ -1,6 +1,6 @@
 # Thessley Presentations
 
-![Deck](https://img.shields.io/badge/deck-slides-7c6cf0?style=flat-square)
+![Deck](https://img.shields.io/badge/deck-7c6cf0?style=flat-square)
 
 [![Thessley Presentations](docs/preview/hero.png)](https://netmate1234.github.io/thessley-presentations/)
 
